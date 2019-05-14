@@ -16,3 +16,7 @@ This is simple Calculator;
 UI 示意图：
 
 ![Image text](https://github.com/xiayu54/IMG-storage/blob/master/calculator_UI.png)
+
+App 图标:
+
+![Image text](https://github.com/xiayu54/IMG-storage/blob/master/icon.png)
